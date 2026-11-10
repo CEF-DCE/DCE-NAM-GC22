@@ -1,2 +1,2 @@
 # DCE-NAM-GC22
-NAM campaign for GC-22
+NAM campaign for GC-22 - Skins personnalisées
